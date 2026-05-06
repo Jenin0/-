@@ -19,8 +19,3 @@ python main.py
 ```bash
 python -m unittest tests.py -v
 ```
-
-## Гав
-`
-Гав гав гав
-
